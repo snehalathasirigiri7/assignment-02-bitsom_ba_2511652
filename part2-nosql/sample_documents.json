@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "E001",
+    "category": "Electronics",
+    "name": "Noise Cancelling Headphones",
+    "brand": "AudioMax",
+    "price": 129.99,
+    "specs": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "features": [
+        "Bluetooth 5.0",
+        "Active Noise Cancellation",
+        "Fast Charging"
+      ]
+    }
+  },
+  {
+    "_id": "C001",
+    "category": "Clothing",
+    "name": "Men's Running Jacket",
+    "brand": "FitWear",
+    "price": 59.99,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "materials": {
+      "outer": "Polyester",
+      "inner": "Mesh"
+    },
+    "care_instructions": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Tumble dry low"
+    ]
+  },
+  {
+    "_id": "G001",
+    "category": "Groceries",
+    "name": "Organic Almonds",
+    "brand": "NutriFarm",
+    "price": 12.49,
+    "weight_grams": 500,
+    "nutrition": {
+      "calories": 160,
+      "fat_g": 14,
+      "protein_g": 6,
+      "carbs_g": 6
+    },
+    "expiry": "2026-08-15",
+    "certifications": [
+      "USDA Organic",
+      "Non-GMO"
+    ]
+  }
+]
